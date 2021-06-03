@@ -1,0 +1,2 @@
+//pointing to the main content:
+def TheContent = task.getVariable("xcMainContent")
